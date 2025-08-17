@@ -1,6 +1,6 @@
 ## Sviluppo di un'infrastruttura virtuale per l'erogazione di servizi di calcolo con SLURM
 
-[![SLURM logo](https://slurm.schedmd.com/slurm_logo.png)](https://slurm.schedmd.com/overview.html)
+[<img src="https://slurm.schedmd.com/slurm_logo.png" alt="SLURM logo" title="SLURM Workload Manager" width="250" style="background-color: white">](https://slurm.schedmd.com/overview.html)
 
 ### Tesi di Laurea in Amministrazione di Sistemi T – CdS in Ingegneria Informatica (Alma Mater Studiorum)
 
